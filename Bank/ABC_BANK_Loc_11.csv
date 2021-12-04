@@ -1,0 +1,306 @@
+"sha256": "d8e883f2b989563a75dcbf4b6fc668435399eec2840d6167f9cba5a1c44e364f",
+      "size": 61934,
+      "subdir": "noarch",
+      "timestamp": 1530612463815,
+      "version": "2.3.2"
+    },
+    "libxi-cos6-i686-1.7.8-h579e212_0.tar.bz2": {
+      "build": "h579e212_0",
+      "build_number": 0,
+      "depends": [
+        "libx11-cos6-i686 >=1.5.99.902"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "50dc09f93a897b924a52358a67f359ce",
+      "name": "libxi-cos6-i686",
+      "noarch": "generic",
+      "sha256": "d7eaaa9c0403cae38121da29a2b21da0261fc6e4d8d85b0eec4fe3b44a14add3",
+      "size": 31833,
+      "subdir": "noarch",
+      "timestamp": 1505098234785,
+      "version": "1.7.8"
+    },
+    "libxi-cos6-x86_64-1.7.8-h5354da0_0.tar.bz2": {
+      "build": "h5354da0_0",
+      "build_number": 0,
+      "depends": [
+        "libx11-cos6-x86_64 >=1.5.99.902"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "5e9ce4817a6d1e0f5b597cafdad637b3",
+      "name": "libxi-cos6-x86_64",
+      "noarch": "generic",
+      "sha256": "afc792b7c52414f7ea56f68533030da5b3303fd6d3211425059c39264a689208",
+      "size": 32487,
+      "subdir": "noarch",
+      "timestamp": 1505735592630,
+      "version": "1.7.8"
+    },
+    "libxi-cos7-ppc64le-1.7.9-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "libx11-cos7-ppc64le >=1.5.99.902"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "5597f004e108be32f4b9ce4d38d83954",
+      "name": "libxi-cos7-ppc64le",
+      "sha256": "930495ada0d7efd307d54ca9af99914dbc79647a55023a29735a2758dde7447c",
+      "size": 37960,
+      "subdir": "noarch",
+      "timestamp": 1530612648956,
+      "version": "1.7.9"
+    },
+    "libxi-devel-cos6-i686-1.7.8-hdd8218a_0.tar.bz2": {
+      "build": "hdd8218a_0",
+      "build_number": 0,
+      "depends": [
+        "libxi-cos6-i686 ==1.7.8"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "c9c0bf6d99c0fc8fc99ef174be1b441e",
+      "name": "libxi-devel-cos6-i686",
+      "noarch": "generic",
+      "sha256": "7866dff928fbd27a8d4d18b0b1d2be66ac4839057bcc41e7388183463a7b632d",
+      "size": 93800,
+      "subdir": "noarch",
+      "timestamp": 1505098240008,
+      "version": "1.7.8"
+    },
+    "libxi-devel-cos6-x86_64-1.7.8-hda042b6_0.tar.bz2": {
+      "build": "hda042b6_0",
+      "build_number": 0,
+      "depends": [
+        "libxi-cos6-x86_64 ==1.7.8"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "25b848aeb00194655499779c514b7689",
+      "name": "libxi-devel-cos6-x86_64",
+      "noarch": "generic",
+      "sha256": "eb9f3937ab3db2b262c6a040709d0a4fc0085c23f1896396edec4d60b783dfa4",
+      "size": 93790,
+      "subdir": "noarch",
+      "timestamp": 1505735596781,
+      "version": "1.7.8"
+    },
+    "libxi-devel-cos7-ppc64le-1.7.9-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "libxi-cos7-ppc64le 1.7.9"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "88ffdaaa61f180bd41da2dab6f2c7b16",
+      "name": "libxi-devel-cos7-ppc64le",
+      "sha256": "8e55d0051d99a80799bec77e0b3ea528bc1782ae9797f7a0da67ee2b4251581c",
+      "size": 94319,
+      "subdir": "noarch",
+      "timestamp": 1530612655585,
+      "version": "1.7.9"
+    },
+    "libxinerama-cos6-i686-1.1.3-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "libx11-cos6-i686 >=1.5.99.902"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "a3bcfe5eeb951998d8257bb1a7a93f00",
+      "name": "libxinerama-cos6-i686",
+      "noarch": "generic",
+      "sha256": "956b9c19180e04e0e2eea2ea7b99068712360e51511552de50137145221acfe8",
+      "size": 8775,
+      "subdir": "noarch",
+      "timestamp": 1520567845666,
+      "version": "1.1.3"
+    },
+    "libxinerama-cos6-x86_64-1.1.3-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "libx11-cos6-x86_64 >=1.5.99.902"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "7c200f0d0166419af4fb578335e2f3e6",
+      "name": "libxinerama-cos6-x86_64",
+      "noarch": "generic",
+      "sha256": "9329ba0d9bca76164666449996427c0bc7f4afbfc0a3d02307df99eee29f7f2f",
+      "size": 9022,
+      "subdir": "noarch",
+      "timestamp": 1520530080161,
+      "version": "1.1.3"
+    },
+    "libxinerama-devel-cos6-i686-1.1.3-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "libxinerama-cos6-i686 1.1.3"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "ef693e65d0bc3f82c6d05b94557c4e10",
+      "name": "libxinerama-devel-cos6-i686",
+      "noarch": "generic",
+      "sha256": "f2b40a560650b27154ee436c35adcf6f6e06d5e8d5b4e0b26b6497840ccaad68",
+      "size": 9013,
+      "subdir": "noarch",
+      "timestamp": 1520567852183,
+      "version": "1.1.3"
+    },
+    "libxinerama-devel-cos6-x86_64-1.1.3-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "libxinerama-cos6-x86_64 1.1.3"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "24c38bdeb4ec496b6634a29500d05bbc",
+      "name": "libxinerama-devel-cos6-x86_64",
+      "noarch": "generic",
+      "sha256": "eb274a1f6821026e4889c8bd57571442cfb0a47dd295c960eeb7be9a51a60c1d",
+      "size": 9249,
+      "subdir": "noarch",
+      "timestamp": 1520530135829,
+      "version": "1.1.3"
+    },
+    "libxrandr-cos6-i686-1.5.1-h95c9a06_0.tar.bz2": {
+      "build": "h95c9a06_0",
+      "build_number": 0,
+      "depends": [
+        "libx11-cos6-i686 >=1.6.0"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "556f7e4a76a42593a332994b04c38dbe",
+      "name": "libxrandr-cos6-i686",
+      "noarch": "generic",
+      "sha256": "002d5fb944e5d38e0175dd0bc3ae26a128203e2b4e1454e3566c76ed6034d1d2",
+      "size": 20550,
+      "subdir": "noarch",
+      "timestamp": 1505098222651,
+      "version": "1.5.1"
+    },
+    "libxrandr-cos6-x86_64-1.5.1-h9e6466e_0.tar.bz2": {
+      "build": "h9e6466e_0",
+      "build_number": 0,
+      "depends": [
+        "libx11-cos6-x86_64 >=1.6.0"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "4386473981a7b4a7fce349e67b7ba577",
+      "name": "libxrandr-cos6-x86_64",
+      "noarch": "generic",
+      "sha256": "09293acfa2e92bcae8c24d544d7abf100e6397145e6e8e61ecfa58427b80534e",
+      "size": 21077,
+      "subdir": "noarch",
+      "timestamp": 1505735584770,
+      "version": "1.5.1"
+    },
+    "libxrandr-cos7-ppc64le-1.5.1-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "libx11-cos7-ppc64le >=1.6.0"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "948eeb53f95532b5ebf7b22aeff1c2a2",
+      "name": "libxrandr-cos7-ppc64le",
+      "sha256": "a34c8c4ac3e0a6119bcc1223a576d9c309addbbf4be403efd1c1242615b656d5",
+      "size": 24936,
+      "subdir": "noarch",
+      "timestamp": 1530612520533,
+      "version": "1.5.1"
+    },
+    "libxrandr-devel-cos6-i686-1.5.1-hede7057_0.tar.bz2": {
+      "build": "hede7057_0",
+      "build_number": 0,
+      "depends": [
+        "libxrandr-cos6-i686 ==1.5.1"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "f76081cc3641c002ed48bfcb09de2ddf",
+      "name": "libxrandr-devel-cos6-i686",
+      "noarch": "generic",
+      "sha256": "ec7bc772a704b9c5bf577aa05573375e36156a3b94ef7d4ea39e830c0646b517",
+      "size": 14051,
+      "subdir": "noarch",
+      "timestamp": 1505098227984,
+      "version": "1.5.1"
+    },
+    "libxrandr-devel-cos6-x86_64-1.5.1-h5fb6d88_0.tar.bz2": {
+      "build": "h5fb6d88_0",
+      "build_number": 0,
+      "depends": [
+        "libxrandr-cos6-x86_64 ==1.5.1"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "c8d547613aed8a76f93f2cffb07ade20",
+      "name": "libxrandr-devel-cos6-x86_64",
+      "noarch": "generic",
+      "sha256": "0a89b66dcfdb04a6b2e27643545e6d33a48f06cce7de6b3169c18f1f616e71d8",
+      "size": 14095,
+      "subdir": "noarch",
+      "timestamp": 1505735588645,
+      "version": "1.5.1"
+    },
+    "libxrandr-devel-cos7-ppc64le-1.5.1-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "libxrandr-cos7-ppc64le 1.5.1"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "2fcd05dde5d729c1188041ea88ae2e3e",
+      "name": "libxrandr-devel-cos7-ppc64le",
+      "sha256": "ea2184523abcd2c02a38d2739cf9759c4e204995564c766a35f3858058587e4c",
+      "size": 14625,
+      "subdir": "noarch",
+      "timestamp": 1530612662015,
+      "version": "1.5.1"
+    },
+    "libxrender-cos6-i686-0.9.10-hb9278cd_0.tar.bz2": {
+      "build": "hb9278cd_0",
+      "build_number": 0,
+      "depends": [
+        "libx11-cos6-i686 >=1.5.99.902"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "b756766a57bfb9720c212f730b2e13d1",
+      "name": "libxrender-cos6-i686",
+      "noarch": "generic",
+      "sha256": "b82154071bae59ad02e4f23cfcc20fd8880a90abd68346d06e3d5332c3cb6de6",
+      "size": 20648,
+      "subdir": "noarch",
+      "timestamp": 1505090227443,
+      "version": "0.9.10"
+    },
+    "libxrender-cos6-x86_64-0.9.10-h41db5cd_0.tar.bz2": {
+      "build": "h41db5cd_0",
+      "build_number": 0,
+      "depends": [
+        "libx11-cos6-x86_64 >=1.5.99.902"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "3ce84596973ac48ebddd4fe856e2b85f",
+      "name": "libxrender-cos6-x86_64",
+      "noarch": "generic",
+      "sha256": "61ff3bf78611e0d6003114df38062aeb79551cb26fd3dce4f87fa62eb5f9d56b",
+      "size": 21359,
+      "subdir": "noarch",
+  

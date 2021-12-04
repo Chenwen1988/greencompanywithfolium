@@ -1,0 +1,196 @@
+mesa-dri1-drivers-cos6-x86_64 >=7.11"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "f48277b00ded7aaf954510315f2a7bca",
+      "name": "mesa-dri-drivers-cos6-x86_64",
+      "noarch": "generic",
+      "sha256": "b5c2a0b67bfba84bb74adb03dea7640bf6525ab202f71f376af2f409e02fdfe9",
+      "size": 21659392,
+      "subdir": "noarch",
+      "timestamp": 1505735758322,
+      "version": "11.0.7"
+    },
+    "mesa-dri-drivers-cos7-ppc64le-17.2.3-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "libdrm-cos7-ppc64le >=2.4.83"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "d498c93b0cacf963289eaaae6a98847e",
+      "name": "mesa-dri-drivers-cos7-ppc64le",
+      "sha256": "200a8be2b5f7b0002c474a02d9c22459a67ddac9479e4fb254fdbd936cdf183e",
+      "size": 29368073,
+      "subdir": "noarch",
+      "timestamp": 1539524710931,
+      "version": "17.2.3"
+    },
+    "mesa-dri1-drivers-cos6-i686-7.11-h9a92f47_0.tar.bz2": {
+      "build": "h9a92f47_0",
+      "build_number": 0,
+      "depends": [],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "912e27f4ff201e0a0f00bb24a56e0487",
+      "name": "mesa-dri1-drivers-cos6-i686",
+      "noarch": "generic",
+      "sha256": "71baff6aaae222a8d8b7feb62d9b78af0a760eb95ced62eaf075edf272b02a36",
+      "size": 4369224,
+      "subdir": "noarch",
+      "timestamp": 1505098158058,
+      "version": "7.11"
+    },
+    "mesa-dri1-drivers-cos6-x86_64-7.11-hd08e721_0.tar.bz2": {
+      "build": "hd08e721_0",
+      "build_number": 0,
+      "depends": [],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "bf95ba8d389fac15d9054fb93be67f32",
+      "name": "mesa-dri1-drivers-cos6-x86_64",
+      "noarch": "generic",
+      "sha256": "1642d2983e0d0cc5a04e143285f1bf808c9557742db27c659a67ac0db03fc178",
+      "size": 4514376,
+      "subdir": "noarch",
+      "timestamp": 1505735732303,
+      "version": "7.11"
+    },
+    "mesa-libegl-cos6-i686-11.0.7-1.tar.bz2": {
+      "build": "1",
+      "build_number": 1,
+      "depends": [
+        "mesa-libgbm-cos6-i686 11.0.7"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "ba452f0291e5fae6cc7f7f44229bc468",
+      "name": "mesa-libegl-cos6-i686",
+      "noarch": "generic",
+      "sha256": "f7b4b1810504f614aedc5f630dd5c317e4cbdacf7c90f6d5e9d2963ff23bbcab",
+      "size": 61024,
+      "subdir": "noarch",
+      "timestamp": 1543461543248,
+      "version": "11.0.7"
+    },
+    "mesa-libegl-cos6-i686-11.0.7-h2bd1e70_0.tar.bz2": {
+      "build": "h2bd1e70_0",
+      "build_number": 0,
+      "depends": [],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "9eefd071dd77da16ecbbf4db01497e85",
+      "name": "mesa-libegl-cos6-i686",
+      "noarch": "generic",
+      "sha256": "3f44ebb032547a409745b45e597249f9397c25c1e150ccafd8a79035fc1ca0fe",
+      "size": 60181,
+      "subdir": "noarch",
+      "timestamp": 1505098291872,
+      "version": "11.0.7"
+    },
+    "mesa-libegl-cos6-x86_64-11.0.7-1.tar.bz2": {
+      "build": "1",
+      "build_number": 1,
+      "depends": [
+        "mesa-libgbm-cos6-x86_64 11.0.7"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "9bf81af8d542a5927a28264e096dad11",
+      "name": "mesa-libegl-cos6-x86_64",
+      "sha256": "ea149f6def9d5c0790636eeb8d4a62cfca3154013ab0331adf868ecbc8387e78",
+      "size": 61628,
+      "subdir": "noarch",
+      "timestamp": 1540493084325,
+      "version": "11.0.7"
+    },
+    "mesa-libegl-cos6-x86_64-11.0.7-hb6c5e57_0.tar.bz2": {
+      "build": "hb6c5e57_0",
+      "build_number": 0,
+      "depends": [],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "7ea55849690def950e41b54fe3561cf8",
+      "name": "mesa-libegl-cos6-x86_64",
+      "noarch": "generic",
+      "sha256": "904afc39ece7fde9ee71e561fd1db47e192878e53000267460f6d7a90f92454b",
+      "size": 60751,
+      "subdir": "noarch",
+      "timestamp": 1505735800554,
+      "version": "11.0.7"
+    },
+    "mesa-libegl-devel-cos6-i686-11.0.7-h3384dae_0.tar.bz2": {
+      "build": "h3384dae_0",
+      "build_number": 0,
+      "depends": [
+        "mesa-libegl-cos6-i686 ==11.0.7"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "9c39436802260116a977341c954cb355",
+      "name": "mesa-libegl-devel-cos6-i686",
+      "noarch": "generic",
+      "sha256": "2e61b6f5061dbdaa05ab52fffceb1ab4f5266f766de74a1ba77b7c3d3e6ccfa0",
+      "size": 17322,
+      "subdir": "noarch",
+      "timestamp": 1505098297279,
+      "version": "11.0.7"
+    },
+    "mesa-libegl-devel-cos6-x86_64-11.0.7-h2b7a4b1_0.tar.bz2": {
+      "build": "h2b7a4b1_0",
+      "build_number": 0,
+      "depends": [
+        "mesa-libegl-cos6-x86_64 ==11.0.7"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "d18f2a27f60f01fad73531a3f9388b65",
+      "name": "mesa-libegl-devel-cos6-x86_64",
+      "noarch": "generic",
+      "sha256": "0fd8f178203b69d5b34f6a96b3fe6774eacce5d3f336d3e0d1822030dd2e6117",
+      "size": 17323,
+      "subdir": "noarch",
+      "timestamp": 1505735804625,
+      "version": "11.0.7"
+    },
+    "mesa-libgbm-cos6-i686-11.0.7-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "aa2df2048b82482d3f9c1521a3be91d1",
+      "name": "mesa-libgbm-cos6-i686",
+      "sha256": "93478a016b04fe36ecbd2f80f7d3f3376b2ec76b5d8cf1c72b6819f68c2d11e7",
+      "size": 33034,
+      "subdir": "noarch",
+      "timestamp": 1521801808753,
+      "version": "11.0.7"
+    },
+    "mesa-libgbm-cos6-x86_64-11.0.7-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "fcf88092f8c7495b11ee2eecfda2cc22",
+      "name": "mesa-libgbm-cos6-x86_64",
+      "sha256": "d4049339df916e66c014d9a6abb21b9d680d529a1e916cb3d2a52426fc3f27f7",
+      "size": 33429,
+      "subdir": "noarch",
+      "timestamp": 1521801826783,
+      "version": "11.0.7"
+    },
+    "mesa-libgl-cos6-i686-11.0.7-h8f8d5c3_0.tar.bz2": {
+      "build": "h8f8d5c3_0",
+      "build_number": 0,
+      "depends": [
+        "libdrm-cos6-i686 >=2.4.24",
+        "libx11-cos6-i686 >1.6"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "06f048dacfeef933ef2a3977412c3489",
+      "name": "mesa-libgl-cos6-i686",
+     

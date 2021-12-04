@@ -1,0 +1,303 @@
+ "version": "0.2.0"
+    },
+    "absl-py-0.2.0-py35_0.tar.bz2": {
+      "build": "py35_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.5,<3.6.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "8310e2b52b5a0d859c0241216313ca81",
+      "name": "absl-py",
+      "sha256": "6b9779ff7c681b6a0faca09e6f732cf9e290b34ca6bce377301c89540ec7f118",
+      "size": 139219,
+      "subdir": "win-64",
+      "timestamp": 1524512959597,
+      "version": "0.2.0"
+    },
+    "absl-py-0.2.0-py36_0.tar.bz2": {
+      "build": "py36_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.6,<3.7.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "e05f35aae6f5484794eb566d2ce17bd8",
+      "name": "absl-py",
+      "sha256": "e6019a9fb2d08dc87d10653a21aa44431df3966c3c06a16fd7cb04c92590d878",
+      "size": 138782,
+      "subdir": "win-64",
+      "timestamp": 1524512716162,
+      "version": "0.2.0"
+    },
+    "absl-py-0.2.1-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "python >=2.7,<2.8.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "f235f8a23a4467681c6ababeaa2fe181",
+      "name": "absl-py",
+      "sha256": "a6b967634dce4953c803c730da9013b95f10cbba98dd954e656626c83307f39a",
+      "size": 135825,
+      "subdir": "win-64",
+      "timestamp": 1526931568926,
+      "version": "0.2.1"
+    },
+    "absl-py-0.2.1-py35_0.tar.bz2": {
+      "build": "py35_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.5,<3.6.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "d12338b96e40c53e3dfd0cae5a1227a5",
+      "name": "absl-py",
+      "sha256": "071db55a914a85848aa124197cbbc47e0e2dc21b19b56768f38e988618d4d579",
+      "size": 139166,
+      "subdir": "win-64",
+      "timestamp": 1526931580493,
+      "version": "0.2.1"
+    },
+    "absl-py-0.2.1-py36_0.tar.bz2": {
+      "build": "py36_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.6,<3.7.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "8d19f57da35e455b47910b31866f2ac4",
+      "name": "absl-py",
+      "sha256": "9690e0489ebf2a33f732805ffcf13f390321f96a350ef3ddf0f4e40c6739b55e",
+      "size": 138766,
+      "subdir": "win-64",
+      "timestamp": 1526931556565,
+      "version": "0.2.1"
+    },
+    "absl-py-0.2.2-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "python >=2.7,<2.8.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "34a7d8618aebc691d8889a6dba8a83e1",
+      "name": "absl-py",
+      "sha256": "376a521ef92f6193200e01e495c1c2e87ba8083d856e9dbf951c2e4f4b511042",
+      "size": 135724,
+      "subdir": "win-64",
+      "timestamp": 1527632171782,
+      "version": "0.2.2"
+    },
+    "absl-py-0.2.2-py35_0.tar.bz2": {
+      "build": "py35_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.5,<3.6.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "87f1aaf7dc90a98da65880b516ff7759",
+      "name": "absl-py",
+      "sha256": "b9073ef96148aece47780753b8fb62effb036c1724773a77ebc7010a4c6d6877",
+      "size": 139279,
+      "subdir": "win-64",
+      "timestamp": 1527631818184,
+      "version": "0.2.2"
+    },
+    "absl-py-0.2.2-py36_0.tar.bz2": {
+      "build": "py36_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.6,<3.7.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "763972ddf781494cd546f7ae199e0b4a",
+      "name": "absl-py",
+      "sha256": "9cec840e28c5c2031ca9a1bcd96fe44d0c3bed3b6d109d6393a4078b11bf2dae",
+      "size": 138857,
+      "subdir": "win-64",
+      "timestamp": 1527631777221,
+      "version": "0.2.2"
+    },
+    "absl-py-0.2.2-py37_0.tar.bz2": {
+      "build": "py37_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.7,<3.8.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "a9ca30b3bc61ded6abf92fd613c50fd5",
+      "name": "absl-py",
+      "sha256": "79e403c3540b20072408f48338236c02dfd9f9d05c094fb84462aabdb5b3453b",
+      "size": 138787,
+      "subdir": "win-64",
+      "timestamp": 1531673697300,
+      "version": "0.2.2"
+    },
+    "absl-py-0.3.0-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "python >=2.7,<2.8.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "b3aee8f7e13a40c146689316a2642adb",
+      "name": "absl-py",
+      "sha256": "5d08066534c92d166e15a36b54f2f2a3cb816b0ed30e29aae7255971bd784ea9",
+      "size": 137206,
+      "subdir": "win-64",
+      "timestamp": 1532554232383,
+      "version": "0.3.0"
+    },
+    "absl-py-0.3.0-py27h28b3542_0.tar.bz2": {
+      "build": "py27h28b3542_0",
+      "build_number": 0,
+      "depends": [
+        "python >=2.7,<2.8.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "fa48964228b3aa22ec0c035265cc6cc6",
+      "name": "absl-py",
+      "sha256": "bf4a908c5bfe83bb2a9c4ca38db16f2160dc3f3745149a5e49cb8860da129356",
+      "size": 136978,
+      "subdir": "win-64",
+      "timestamp": 1534354967472,
+      "version": "0.3.0"
+    },
+    "absl-py-0.3.0-py35_0.tar.bz2": {
+      "build": "py35_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.5,<3.6.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "71bcb57704fa804664aac6dcf73f3c9e",
+      "name": "absl-py",
+      "sha256": "0e5aad4160f5d7f890ac6d356c6a51c9b3eb3f9f6e5a533c2267931972957a8d",
+      "size": 140760,
+      "subdir": "win-64",
+      "timestamp": 1532554358433,
+      "version": "0.3.0"
+    },
+    "absl-py-0.3.0-py35h28b3542_0.tar.bz2": {
+      "build": "py35h28b3542_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.5,<3.6.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "934f5861b0fb044d3d4956c748f404b3",
+      "name": "absl-py",
+      "sha256": "5a9d6a411f1d6df03a3db77f710e03aca1920b1279c17e534faad4a7b86ad260",
+      "size": 140384,
+      "subdir": "win-64",
+      "timestamp": 1534355138144,
+      "version": "0.3.0"
+    },
+    "absl-py-0.3.0-py36_0.tar.bz2": {
+      "build": "py36_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.6,<3.7.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "c659caf5d74e0bafadabbc08823154d6",
+      "name": "absl-py",
+      "sha256": "fe8e7028629c559cc41e068e0f2cbfc794abae7da26dfa32041c587172e98a4c",
+      "size": 140319,
+      "subdir": "win-64",
+      "timestamp": 1532554359152,
+      "version": "0.3.0"
+    },
+    "absl-py-0.3.0-py36h28b3542_0.tar.bz2": {
+      "build": "py36h28b3542_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.6,<3.7.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "17816cdf68d82b9db052330b0068014b",
+      "name": "absl-py",
+      "sha256": "e127990b9317429871c1133b4dc94b628910feddb372cd0eb14fe8136e165caf",
+      "size": 140002,
+      "subdir": "win-64",
+      "timestamp": 1534355052676,
+      "version": "0.3.0"
+    },
+    "absl-py-0.3.0-py37_0.tar.bz2": {
+      "build": "py37_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.7,<3.8.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "62ede8f4d4a0bf882268c3a7d3082811",
+      "name": "absl-py",
+      "sha256": "fb3a69e1fd34643c231f2703662c935560bb42c881f2ed9645034b6dc670f433",
+      "size": 140539,
+      "subdir": "win-64",
+      "timestamp": 1532554232868,
+      "version": "0.3.0"
+    },
+    "absl-py-0.3.0-py37h28b3542_0.tar.bz2": {
+      "build": "py37h28b3542_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.7,<3.8.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "4be8cc83c4e3d2be075deabb0dab125f",
+      "name": "absl-py",
+      "sha256": "bcdf0a0471ea06e6b210f519f7124d2f5d54f6709623ab6f8d2aacdbdbba7579",
+      "size": 140194,
+      "subdir": "win-64",
+      "timestamp": 1534355223420,
+      "version": "0.3.0"
+    },
+    "absl-py-0.4.0-py27h28b3542_0.tar.bz2": {
+      "build": "py27h28b3542_0",
+      "build_number": 0,
+      "depends": [
+        "python >=2.7,<2.8.0a0",
+        "six"
+      ],
+      "license": "Apache 2.0",
+      "license_family": "Apache",
+      "md5": "ff88836b4589228d765cc758e194dccc",
+      "name": "absl-py",
+      "sha256": 
