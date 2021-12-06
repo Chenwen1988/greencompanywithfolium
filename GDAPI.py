@@ -89,7 +89,7 @@ if __name__ == '__main__':
         os.mkdir('./location')
         
     for COM,add in zip(CHONGQINGCOM['company_name'],CHONGQINGCOM['address']):
-    #add = '解放碑'
+    add = '重庆市江津区几江街道浩阳街1幢'
         geo = get_location(add, 'chongqing', key)
         with open('./location/Gaode.txt','a') as f:
             f.write(COM+'\t'+str(geo)+'\n')
